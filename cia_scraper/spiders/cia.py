@@ -1,7 +1,4 @@
 import scrapy
-import requests
-import lxml
-
 # XPath
 
 # links = '//a[contains(@href, "collection") and (parent::h3 | parent::h2)]/@href'
